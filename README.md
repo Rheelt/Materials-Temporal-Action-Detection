@@ -8,3 +8,10 @@
 - Weakly Supervised Action Localization by Sparse Temporal Pooling Network (CVPR 2018)
 - Hide-and-seek: Forcing a network to be meticulous for weakly-supervised object and action localization (ICCV 2017)
 - UntrimmedNets for Weakly Supervised Action Recognition and Detection (CVPR 2017)
+# Benchmark Results
+These methods are listed in chronological order.
+
+
+| Method | Feature | IoU-> | 0.1 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| RefineLoc | UNet | | 
