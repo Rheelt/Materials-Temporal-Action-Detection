@@ -15,6 +15,7 @@
 - I3D: Video is sampled at 25 frames per second. [link](https://github.com/sujoyp/wtalc-pytorch)
 - UNet [link](https://github.com/zhengshou/AutoLoc)
 - ANet2016-cuhk(4096dims) [link](https://github.com/jiyanggao/CTAP)
+- ANet2016-cuhk(3072dims): wait...
 
 **ActivityNet v1.2**
 - I3D: Video is sampled at 25 frames per second. [link](https://github.com/sujoyp/wtalc-pytorch)
@@ -22,7 +23,8 @@
 
 **ActivityNet v1.3**
 - ANet2016-cuhk(400dims): [link](https://github.com/wzmsltw/BSN-boundary-sensitive-network) 
-
+- I3D: wait...
+- ANet2016-cuhk(3072dims): wait...
 
 # Benchmark Results (THUMOS14 Results)
 These methods are listed in chronological order.
