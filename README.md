@@ -10,6 +10,15 @@
 - (H&S) **Hide-and-seek: Forcing a network to be meticulous for weakly-supervised object and action localization** (ICCV 2017)
 - (UNet) **UntrimmedNets for Weakly Supervised Action Recognition and Detection** (CVPR 2017) [CODE.caffe](https://github.com/wanglimin/UntrimmedNet)
 
+# Features: Download link
+**THUMOS14**
+- I3D: Video is sampled at 25 frames per second. [link](https://github.com/sujoyp/wtalc-pytorch)
+- UNet [link](https://github.com/zhengshou/AutoLoc)
+**ActivityNet v1.2**
+- I3D: Video is sampled at 25 frames per second. [link](https://github.com/sujoyp/wtalc-pytorch)
+- UNet [link](https://github.com/zhengshou/AutoLoc)
+
+
 # Benchmark Results (THUMOS14 Results)
 These methods are listed in chronological order.
 
