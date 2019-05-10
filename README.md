@@ -1,14 +1,14 @@
 # Papers: weakly temporal action detection
-- (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (Arxiv 2019.4)
+- (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (Arxiv 2019.4) 
 - (RefineLoc) **RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization** (Arxiv 2019.4)
 - (STAR) **Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection** (AAAI 2019)
 - (TSRNet) **Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision** (AAAI 2019)
 - (StepByStep) **Step-by-step Erasion, One-by-one Collection: AWeakly Supervised Temporal Action Detector** (MM 2018)
-- (W-TALC) **W-TALC: Weakly-supervised Temporal Activity Localization and Classification** (ECCV 2018)
-- (AutoLoc) **AutoLoc: Weakly-supervised Temporal Action Localization in Untrimmed Videos** (ECCV 2018)
-- (STPN) **Weakly Supervised Action Localization by Sparse Temporal Pooling Network** (CVPR 2018)
+- (W-TALC) **W-TALC: Weakly-supervised Temporal Activity Localization and Classification** (ECCV 2018) [CODE.pytorch](https://github.com/sujoyp/wtalc-pytorch)
+- (AutoLoc) **AutoLoc: Weakly-supervised Temporal Action Localization in Untrimmed Videos** (ECCV 2018) [CODE.caffe](https://github.com/zhengshou/AutoLoc)
+- (STPN) **Weakly Supervised Action Localization by Sparse Temporal Pooling Network** (CVPR 2018) [CODE.tensorflow.unofficial](https://github.com/bellos1203/STPN)
 - (H&S) **Hide-and-seek: Forcing a network to be meticulous for weakly-supervised object and action localization** (ICCV 2017)
-- (UNet) **UntrimmedNets for Weakly Supervised Action Recognition and Detection** (CVPR 2017)
+- (UNet) **UntrimmedNets for Weakly Supervised Action Recognition and Detection** (CVPR 2017) [CODE.caffe](https://github.com/wanglimin/UntrimmedNet)
 
 # Benchmark Results (THUMOS14 Results)
 These methods are listed in chronological order.
