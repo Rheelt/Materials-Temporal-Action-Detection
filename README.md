@@ -1,4 +1,5 @@
 # Papers: weakly temporal action detection
+- Weakly Supervised Gaussian Networks for Action Detection (Arxiv 2019.4)
 - RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization (Arxiv 2019.4)
 - Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection (AAAI 2019)
 - Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision (AAAI 2019)
