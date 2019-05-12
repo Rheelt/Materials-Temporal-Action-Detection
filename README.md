@@ -1,4 +1,5 @@
 # Papers: weakly temporal action detection
+- **Weakly-Supervised Temporal Localization via Occurrence Count Learning** (ICML 2019)
 - (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (Arxiv 2019.4) 
 - (RefineLoc) **RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization** (Arxiv 2019.4)
 - (STAR) **Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection** (AAAI 2019)
