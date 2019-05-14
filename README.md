@@ -16,7 +16,7 @@
 - I3D: Video is sampled at 25 frames per second. 16 frames as a video unit. [link](https://github.com/sujoyp/wtalc-pytorch)
 - UNet: [link](https://github.com/zhengshou/AutoLoc)
 - ANet2016-cuhk(4096dims): 6 frames as a video unit. [link](https://github.com/jiyanggao/CTAP)
-- ANet2016-cuhk(3072dims): 5 frames as a video unit. [lingk](https://drive.google.com/open?id=1gCNYPf6Fxeht1HO3eIzuyj84gtbkPETx)
+- ANet2016-cuhk(3072dims): 5 frames as a video unit. [link](https://drive.google.com/open?id=1gCNYPf6Fxeht1HO3eIzuyj84gtbkPETx)
 
 **ActivityNet v1.2**
 - I3D: Video is sampled at 25 frames per second. 16 frames as a video unit. [link](https://github.com/sujoyp/wtalc-pytorch)
