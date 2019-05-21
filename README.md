@@ -1,4 +1,5 @@
 # Papers: temporal action proposals & detection
+- (TGM) **Temporal Gaussian Mixture Layer for Videos** (ICML 2019)
 - (MGG) **Multi-granularity Generator for Temporal Action Proposal** (CVPR 2019)
 
 # Papers: weakly temporal action detection
