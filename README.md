@@ -1,3 +1,6 @@
+# Papers: temporal action proposals & detection
+- (MGG) **Multi-granularity Generator for Temporal Action Proposal** (CVPR 2019)
+
 # Papers: weakly temporal action detection
 - **Weakly-Supervised Temporal Localization via Occurrence Count Learning** (ICML 2019)
 - (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (Arxiv 2019.4) 
