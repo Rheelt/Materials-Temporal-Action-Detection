@@ -17,6 +17,7 @@
 
 # Features: Download link
 **THUMOS14**
+- C3D: [link](https://github.com/wzmsltw/BSN-boundary-sensitive-network/issues/24)
 - I3D: Video is sampled at 25 frames per second. 16 frames as a video unit. [link](https://github.com/sujoyp/wtalc-pytorch)
 - UNet: [link](https://github.com/zhengshou/AutoLoc)
 - ANet2016-cuhk(4096dims): 6 frames as a video unit. [link](https://github.com/jiyanggao/CTAP)
@@ -27,6 +28,7 @@
 - UNet: [link](https://github.com/zhengshou/AutoLoc)
 
 **ActivityNet v1.3**
+- C3D: [link](http://activity-net.org/challenges/2016/download.html)
 - ANet2016-cuhk(400dims): 16 frames as a video unit. [link](https://github.com/wzmsltw/BSN-boundary-sensitive-network) 
 - I3D: 16 frames as a video unit. wait...
 - ANet2016-cuhk(3072dims): 16 frames as a video unit. wait...
