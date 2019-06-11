@@ -1,6 +1,7 @@
 # Papers: temporal action proposals & detection
 - (TGM) **Temporal Gaussian Mixture Layer for Videos** (ICML 2019) [CODE.pytorch](https://github.com/piergiaj/tgm-icml19)
 - (MGG) **Multi-granularity Generator for Temporal Action Proposal** (CVPR 2019)
+- (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019)
 
 # Papers: weakly temporal action detection
 - (CMCS) **Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization** (CVPR19)[CODE.pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
@@ -31,8 +32,8 @@
 **ActivityNet v1.3**
 - C3D: [link](http://activity-net.org/challenges/2016/download.html)
 - ANet2016-cuhk(400dims): 16 frames as a video unit. [link](https://github.com/wzmsltw/BSN-boundary-sensitive-network) 
-- I3D: 16 frames as a video unit. wait...
-- ANet2016-cuhk(3072dims): 16 frames as a video unit. wait...
+- I3D: 16 frames as a video unit. [link](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
+- ANet2016-cuhk(3072dims): 16 frames as a video unit. [link](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
 
 # Benchmark Results (THUMOS14 Results)
 These methods are listed in chronological order.
