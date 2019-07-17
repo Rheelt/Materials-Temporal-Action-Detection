@@ -6,6 +6,7 @@
 # Papers: weakly temporal action detection
 - (CMCS) **Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization** (CVPR19)[CODE.pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
 - **Weakly-Supervised Temporal Localization via Occurrence Count Learning** (ICML 2019)
+- (MAAN) **Marginalized Average Attentional Network for Weakly-Supervised Learning** (ICLR2019)[CODE.pytorch](https://github.com/yyuanad/MAAN)
 - (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (Arxiv 2019.4) 
 - (RefineLoc) **RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization** (Arxiv 2019.4)
 - (STAR) **Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection** (AAAI 2019)
@@ -41,6 +42,7 @@ These methods are listed in chronological order.
 
 | Method | Feature | IoU-> | 0.1 | 0.2 | 0.3   | 0.4    | 0.5    | 0.6    | 0.7 |
 | :----: | :----: | :----:|:----:|:----:|:----:| :----: | :----: | :----: |:----:|
+| MAAN | I3D |       | 59.8 | 50.8  | 41.1 | 30.6 | 20.3 |  12.0   |  6.9|
 | CMCS | I3D |       | 57.4 | 50.8  | 41.2 | 32.1 | **23.1** |  **15.0**   |  7.0|
 | WSGN | I3D |       | 55.3 | 47.6  | 38.9 | 30.0 | 21.1 |  13.9   |  **8.3**|
 | RefineLoc | UNet |       |     |     |   33.9 |      |   22.1 |     |     6.1 |
