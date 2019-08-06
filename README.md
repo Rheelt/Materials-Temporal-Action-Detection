@@ -1,4 +1,6 @@
 # Papers: temporal action proposals & detection
+- (TSANet) **Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos** (arxiv 2019)
+- (BMN) **BMN: Boundary-Matching Network for Temporal Action Proposal Generation** (ICCV 2019)
 - (TGM) **Temporal Gaussian Mixture Layer for Videos** (ICML 2019) [CODE.pytorch](https://github.com/piergiaj/tgm-icml19)
 - (MGG) **Multi-granularity Generator for Temporal Action Proposal** (CVPR 2019)
 - (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019)
