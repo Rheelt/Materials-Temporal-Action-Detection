@@ -6,6 +6,7 @@
 - (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019)
 
 # Papers: weakly temporal action detection
+- (BM) **Weakly-supervised Action Localization with Background Modeling** (ICCV 2019)
 - (ASSG) **Adversarial Seeded Sequence Growing for Weakly-Supervised Temporal Action Localization** (ACM MM19)
 - (CMCS) **Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization** (CVPR19)[CODE.pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
 - **Weakly-Supervised Temporal Localization via Occurrence Count Learning** (ICML 2019)
@@ -45,10 +46,11 @@ These methods are listed in chronological order.
 
 | Method | Feature | IoU-> | 0.1 | 0.2 | 0.3   | 0.4    | 0.5    | 0.6    | 0.7 |
 | :----: | :----: | :----:|:----:|:----:|:----:| :----: | :----: | :----: |:----:|
-| ASSG| I3D |       | 65.6 | 59.4  | **50.4** | **38.7** | **25.4** |  15.0   |  6.6|
+| BM| I3D |       | 60.4 | 56.0  | 46.6 | 37.5 | **26.8** |  **17.6**   |  **8.6**|
+| ASSG| I3D |       | 65.6 | 59.4  | **50.4** | **38.7** | 25.4 |  15.0   |  6.6|
 | MAAN | I3D |       | 59.8 | 50.8  | 41.1 | 30.6 | 20.3 |  12.0   |  6.9|
-| CMCS | I3D |       | 57.4 | 50.8  | 41.2 | 32.1 | 23.1 |  **15.0**   |  7.0|
-| WSGN | I3D |       | 55.3 | 47.6  | 38.9 | 30.0 | 21.1 |  13.9   |  **8.3**|
+| CMCS | I3D |       | 57.4 | 50.8  | 41.2 | 32.1 | 23.1 |  15.0   |  7.0|
+| WSGN | I3D |       | 55.3 | 47.6  | 38.9 | 30.0 | 21.1 |  13.9   |  8.3|
 | RefineLoc | UNet |       |     |     |   33.9 |      |   22.1 |     |     6.1 |
 | STAR      | I3D |       |  **68.8**|  **60.0**| 48.7|    34.7|   23.0 |     |      |
 | TSRNet    | 2-Stream(ResNet101) |       |  55.9|  46.9| 38.3 |  28.1 |  18.6 | 11.0 |  5.59 |
