@@ -1,5 +1,5 @@
 # Papers: temporal action proposals & detection
-- (C-TCN) **Deep Concept-wise Temporal Convolutional Networks for Action Localization** (arxiv 2019)
+- (C-TCN) **Deep Concept-wise Temporal Convolutional Networks for Action Localization** (arxiv 2019) [CODE.PadddlePaddle](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/PaddleVideo)
 - (TSANet) **Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos** (arxiv 2019)
 - (BMN) **BMN: Boundary-Matching Network for Temporal Action Proposal Generation** (ICCV 2019)
 - (TGM) **Temporal Gaussian Mixture Layer for Videos** (ICML 2019) [CODE.pytorch](https://github.com/piergiaj/tgm-icml19)
