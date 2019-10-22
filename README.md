@@ -1,5 +1,5 @@
 # Papers: temporal action proposals & detection
-- **AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection** (arxiv 2019)
+- (AFO-TAD) **AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection** (arxiv 2019)
 - (semi-supervised) **Learning Temporal Action Proposals With Fewer Labels** (ICCV 2019)
 - (DPP.AnchorFree) **Deep Point-wise Prediction for Action Temporal Proposal** (ICONIP 2019)
 - (P-GCN) **Graph Convolutional Networks for Temporal Action Localization** (ICCV 2019) [CODE.pytorch](https://github.com/Alvin-Zeng/PGCN)
