@@ -12,6 +12,7 @@
 
 # Papers: weakly temporal action detection
 - (LPAT) **LPAT: Learning to Predict Adaptive Threshold for Weakly-supervised Temporal Action Localization** (arxiv 2019)
+- (TSM) **Temporal Structure Mining for Weakly Supervised Action Detection** (ICCV2019)
 - (CleanNet) **Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks** (ICCV2019)
 - (BM) **Weakly-supervised Action Localization with Background Modeling** (ICCV 2019)
 - (ASSG) **Adversarial Seeded Sequence Growing for Weakly-Supervised Temporal Action Localization** (ACM MM19)
@@ -53,6 +54,7 @@ These methods are listed in chronological order.
 
 | Method | Feature | IoU-> | 0.1 | 0.2 | 0.3   | 0.4    | 0.5    | 0.6    | 0.7 |
 | :----: | :----: | :----:|:----:|:----:|:----:| :----: | :----: | :----: |:----:|
+| TSM | I3D |       |       |        | 39.5 | 31.9 | 24.5 |  13.8   | 7.1|
 | CleanNet| UNet |       |       |        | 37.0 | 30.9 | 23.9 |  13.9   | 7.1|
 | BM| I3D |       | 60.4 | 56.0  | 46.6 | 37.5 | **26.8** |  **17.6**   |  **8.6**|
 | ASSG| I3D |       | 65.6 | 59.4  | **50.4** | **38.7** | 25.4 |  15.0   |  6.6|
