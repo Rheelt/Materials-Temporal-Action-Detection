@@ -11,6 +11,7 @@
 - (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019)
 
 # Papers: weakly temporal action detection
+- (LPAT) **LPAT: Learning to Predict Adaptive Threshold for Weakly-supervised Temporal Action Localization** (arxiv 2019)
 - (CleanNet) **Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks** (ICCV2019)
 - (BM) **Weakly-supervised Action Localization with Background Modeling** (ICCV 2019)
 - (ASSG) **Adversarial Seeded Sequence Growing for Weakly-Supervised Temporal Action Localization** (ACM MM19)
