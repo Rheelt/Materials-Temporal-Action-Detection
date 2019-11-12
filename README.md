@@ -1,4 +1,5 @@
 # Papers: temporal action proposals & detection
+- (DBG) **Fast Learning of Temporal Action Proposal via Dense Boundary Generator** (AAAI2020)
 - (AFO-TAD) **AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection** (arxiv 2019)
 - (semi-supervised) **Learning Temporal Action Proposals With Fewer Labels** (ICCV 2019)
 - (DPP.AnchorFree) **Deep Point-wise Prediction for Action Temporal Proposal** (ICONIP 2019)
