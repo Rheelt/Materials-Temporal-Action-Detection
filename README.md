@@ -13,6 +13,7 @@
 - (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019)
 
 # Papers: weakly temporal action detection
+- (BaSNet) **Background Suppression Network for Weakly-supervised Temporal Action Localization** (AAAI20)[CODE.pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 - (LPAT) **LPAT: Learning to Predict Adaptive Threshold for Weakly-supervised Temporal Action Localization** (arxiv 2019)
 - (3C-Net) **3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization** (ICCV2019)
 - (TSM) **Temporal Structure Mining for Weakly Supervised Action Detection** (ICCV2019)
@@ -57,6 +58,7 @@ These methods are listed in chronological order.
 
 | Method | Feature | IoU-> | 0.1 | 0.2 | 0.3   | 0.4    | 0.5    | 0.6    | 0.7 |
 | :----: | :----: | :----:|:----:|:----:|:----:| :----: | :----: | :----: |:----:|
+| BaSNet | I3D |       |58.2       |  52.3      | 44.6 | 36.0 | 27.0 |  18.6 | 10.4|
 | 3C-Net | I3D |       |59.1       |  53.5      | 44.2 | 34.1 | 26.6 |   | 8.1|
 | TSM | I3D |       |       |        | 39.5 | 31.9 | 24.5 |  13.8   | 7.1|
 | CleanNet| UNet |       |       |        | 37.0 | 30.9 | 23.9 |  13.9   | 7.1|
