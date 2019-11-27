@@ -1,6 +1,7 @@
 # Papers: temporal action proposals & detection
+- (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (arxiv 2019)
 - (CMSN) **CMSN: Continuous Multi-stage Network and Variable Margin Cosine Loss for Temporal Action Proposal Generation** (arxiv 2019)
-- (DBG) **Fast Learning of Temporal Action Proposal via Dense Boundary Generator** (AAAI2020) [CODE](https://github.com/TencentYoutuResearch/ActionDetection-DBG)
+- (DBG) **Fast Learning of Temporal Action Proposal via Dense Boundary Generator** (AAAI 2020) [CODE](https://github.com/TencentYoutuResearch/ActionDetection-DBG)
 - (AFO-TAD) **AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection** (arxiv 2019)
 - (semi-supervised) **Learning Temporal Action Proposals With Fewer Labels** (ICCV 2019)
 - (DPP.AnchorFree) **Deep Point-wise Prediction for Action Temporal Proposal** (ICONIP 2019)
