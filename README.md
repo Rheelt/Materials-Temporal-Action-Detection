@@ -1,4 +1,5 @@
 # Papers: temporal action proposals & detection
+- (S-2D-TAN) **Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization** (HACS Temporal Action Localization Challenge at ICCV 2019)
 - (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (arxiv 2019)
 - (CMSN) **CMSN: Continuous Multi-stage Network and Variable Margin Cosine Loss for Temporal Action Proposal Generation** (arxiv 2019)
 - (DBG) **Fast Learning of Temporal Action Proposal via Dense Boundary Generator** (AAAI 2020) [CODE](https://github.com/TencentYoutuResearch/ActionDetection-DBG)
