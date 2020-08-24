@@ -1,4 +1,5 @@
 # Papers: temporal action proposals & detection
+- **Bottom-Up Temporal Action Localization with Mutual Regularization** (ECCV 2020)
 - (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (CVPR 2020) [CODE](https://github.com/frostinassiky/gtad)
 -  **Constraining Temporal Relationship for Action Localization** (arXiv 2020)
 - (AGCN-P-3DCNNs) **Graph Attention Based Proposal 3D ConvNets for Action Detection** (AAAI 2020)
