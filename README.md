@@ -1,40 +1,43 @@
 # Papers: temporal action proposals & detection
--  **Constraining Temporal Relationship for Action Localization** (arxiv 2020)
-- (AGCN-P-3DCNNs) **Graph Attention Based Proposal 3D ConvNets for Action Detection** (AAAI20)
-- (PBRNet) **Progressive Boundary Refinement Network for Temporal Action Detection** (AAAI20)
-- (RapNet) **Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network** (AAAI20)
-- (S-2D-TAN) **Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization** (HACS Temporal Action Localization Challenge at ICCV 2019)
 - (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (CVPR 2020) [CODE](https://github.com/frostinassiky/gtad)
-- (CMSN) **CMSN: Continuous Multi-stage Network and Variable Margin Cosine Loss for Temporal Action Proposal Generation** (arxiv 2019)
+-  **Constraining Temporal Relationship for Action Localization** (arXiv 2020)
+- (AGCN-P-3DCNNs) **Graph Attention Based Proposal 3D ConvNets for Action Detection** (AAAI 2020)
+- (PBRNet) **Progressive Boundary Refinement Network for Temporal Action Detection** (AAAI 2020)
+- (RapNet) **Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network** (AAAI 2020)
+- (CMSN) **CMSN: Continuous Multi-stage Network and Variable Margin Cosine Loss for Temporal Action Proposal Generation** (arXiv 2019)
 - (DBG) **Fast Learning of Temporal Action Proposal via Dense Boundary Generator** (AAAI 2020) [CODE](https://github.com/TencentYoutuResearch/ActionDetection-DBG)
-- (AFO-TAD) **AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection** (arxiv 2019)
+- (AFO-TAD) **AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection** (arXiv 2019)
+- (S-2D-TAN) **Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization** (HACS Temporal Action Localization Challenge at ICCV 2019)
 - (semi-supervised) **Learning Temporal Action Proposals With Fewer Labels** (ICCV 2019)
 - (DPP.AnchorFree) **Deep Point-wise Prediction for Action Temporal Proposal** (ICONIP 2019)
 - (P-GCN) **Graph Convolutional Networks for Temporal Action Localization** (ICCV 2019) [CODE.pytorch](https://github.com/Alvin-Zeng/PGCN)
-- (C-TCN) **Deep Concept-wise Temporal Convolutional Networks for Action Localization** (arxiv 2019) [CODE.PadddlePaddle](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/PaddleVideo)
-- (TSANet) **Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos** (ICME2020)
+- (C-TCN) **Deep Concept-wise Temporal Convolutional Networks for Action Localization** (arXiv 2019) [CODE.PadddlePaddle](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/PaddleVideo)
+- (TSANet) **Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos** (ICME 2020)
 - (BMN) **BMN: Boundary-Matching Network for Temporal Action Proposal Generation** (ICCV 2019)
 - (TGM) **Temporal Gaussian Mixture Layer for Videos** (ICML 2019) [CODE.pytorch](https://github.com/piergiaj/tgm-icml19)
 - (MGG) **Multi-granularity Generator for Temporal Action Proposal** (CVPR 2019)
 - (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019)
 
 # Papers: weakly temporal action detection
-- **Relational Prototypical Network for Weakly Supervised Temporal Action Localization** (AAAI20)
-- (BaSNet) **Background Suppression Network for Weakly-supervised Temporal Action Localization** (AAAI20)[CODE.pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
-- (LPAT) **LPAT: Learning to Predict Adaptive Threshold for Weakly-supervised Temporal Action Localization** (arxiv 2019)
-- (3C-Net) **3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization** (ICCV2019)[CODE.pytorch](https://github.com/naraysa/3c-net)
+- (A2CL-PT) **Adversarial Background-Aware Loss for Weakly-supervised Temporal Activity Localization** (ECCV 2020)[CODE.pytorch](https://github.com/MichiganCOG/A2CL-PT)
+- **Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization** (ECCV 2020)
+- (DGAM) **Weakly-Supervised Action Localization by Generative Attention Modeling** (CVPR 2020)
+- **Relational Prototypical Network for Weakly Supervised Temporal Action Localization** (AAAI 2020)
+- (BaSNet) **Background Suppression Network for Weakly-supervised Temporal Action Localization** (AAAI 2020)[CODE.pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
+- (LPAT) **LPAT: Learning to Predict Adaptive Threshold for Weakly-supervised Temporal Action Localization** (arXiv 2019)
+- (3C-Net) **3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization** (ICCV 2019)[CODE.pytorch](https://github.com/naraysa/3c-net)
 - (TSM) **Temporal Structure Mining for Weakly Supervised Action Detection** (ICCV2019)
-- (CleanNet) **Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks** (ICCV2019)
+- (CleanNet) **Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks** (ICCV 2019)
 - (BM) **Weakly-supervised Action Localization with Background Modeling** (ICCV 2019)
-- (ASSG) **Adversarial Seeded Sequence Growing for Weakly-Supervised Temporal Action Localization** (ACM MM19)
-- (CMCS) **Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization** (CVPR19)[CODE.pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
+- (ASSG) **Adversarial Seeded Sequence Growing for Weakly-Supervised Temporal Action Localization** (ACMMM 2019)
+- (CMCS) **Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization** (CVPR 2019)[CODE.pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
 - **Weakly-Supervised Temporal Localization via Occurrence Count Learning** (ICML 2019)
-- (MAAN) **Marginalized Average Attentional Network for Weakly-Supervised Learning** (ICLR2019)[CODE.pytorch](https://github.com/yyuanad/MAAN)
+- (MAAN) **Marginalized Average Attentional Network for Weakly-Supervised Learning** (ICLR 2019)[CODE.pytorch](https://github.com/yyuanad/MAAN)
 - (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (Arxiv 2019.4) 
-- (RefineLoc) **RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization** (Arxiv 2019.4)
+- (RefineLoc) **RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization** (arXiv 2019)
 - (STAR) **Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection** (AAAI 2019)
 - (TSRNet) **Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision** (AAAI 2019)
-- (StepByStep) **Step-by-step Erasion, One-by-one Collection: AWeakly Supervised Temporal Action Detector** (MM 2018)
+- (StepByStep) **Step-by-step Erasion, One-by-one Collection: A Weakly Supervised Temporal Action Detector** (ACMMM 2018)
 - (W-TALC) **W-TALC: Weakly-supervised Temporal Activity Localization and Classification** (ECCV 2018) [CODE.pytorch](https://github.com/sujoyp/wtalc-pytorch)
 - (AutoLoc) **AutoLoc: Weakly-supervised Temporal Action Localization in Untrimmed Videos** (ECCV 2018) [CODE.caffe](https://github.com/zhengshou/AutoLoc)
 - (STPN) **Weakly Supervised Action Localization by Sparse Temporal Pooling Network** (CVPR 2018) [CODE.tensorflow.unofficial](https://github.com/bellos1203/STPN)
@@ -65,12 +68,14 @@ These methods are listed in chronological order.
 
 | Method | Feature | IoU-> | 0.1 | 0.2 | 0.3   | 0.4    | 0.5    | 0.6    | 0.7 |
 | :----: | :----: | :----:|:----:|:----:|:----:| :----: | :----: | :----: |:----:|
-| BaSNet | I3D |       |58.2       |  52.3      | 44.6 | 36.0 | **27.0** |  **18.6** | **10.4**|
+| A2CL-PT | I3D |       |61.2       |  56.1      | 48.1 | **39.0** | **30.1** | 19.2 | 10.6|
+| DGAM | I3D |       |60.0       |  54.2      | 46.8 | 38.2 | 28.8 | **19.8** | **11.4**|
+| BaSNet | I3D |       |58.2       |  52.3      | 44.6 | 36.0 | 27.0 | 18.6 | 10.4|
 | 3C-Net | I3D |       |59.1       |  53.5      | 44.2 | 34.1 | 26.6 |   | 8.1|
 | TSM | I3D |       |       |        | 39.5 | 31.9 | 24.5 |  13.8   | 7.1|
 | CleanNet| UNet |       |       |        | 37.0 | 30.9 | 23.9 |  13.9   | 7.1|
 | BM| I3D |       | 60.4 | 56.0  | 46.6 | 37.5 | 26.8 |  17.6   |  8.6|
-| ASSG| I3D |       | 65.6 | 59.4  | **50.4** | **38.7** | 25.4 |  15.0   |  6.6|
+| ASSG| I3D |       | 65.6 | 59.4  | **50.4** | 38.7 | 25.4 |  15.0   |  6.6|
 | MAAN | I3D |       | 59.8 | 50.8  | 41.1 | 30.6 | 20.3 |  12.0   |  6.9|
 | CMCS | I3D |       | 57.4 | 50.8  | 41.2 | 32.1 | 23.1 |  15.0   |  7.0|
 | WSGN | I3D |       | 55.3 | 47.6  | 38.9 | 30.0 | 21.1 |  13.9   |  8.3|
