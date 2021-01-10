@@ -19,6 +19,7 @@
 - (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019)
 
 # Papers: weakly temporal action detection
+- (RefineLoc) **RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization** (WACV21) [CODE.pytorch](https://github.com/HumamAlwassel/RefineLoc)
 - **Relational Prototypical Network for Weakly Supervised Temporal Action Localization** (AAAI20)
 - (BaSNet) **Background Suppression Network for Weakly-supervised Temporal Action Localization** (AAAI20)[CODE.pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 - (LPAT) **LPAT: Learning to Predict Adaptive Threshold for Weakly-supervised Temporal Action Localization** (arxiv 2019)
@@ -31,7 +32,6 @@
 - **Weakly-Supervised Temporal Localization via Occurrence Count Learning** (ICML 2019)
 - (MAAN) **Marginalized Average Attentional Network for Weakly-Supervised Learning** (ICLR2019)[CODE.pytorch](https://github.com/yyuanad/MAAN)
 - (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (Arxiv 2019.4) 
-- (RefineLoc) **RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization** (Arxiv 2019.4)
 - (STAR) **Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection** (AAAI 2019)
 - (TSRNet) **Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision** (AAAI 2019)
 - (StepByStep) **Step-by-step Erasion, One-by-one Collection: AWeakly Supervised Temporal Action Detector** (MM 2018)
