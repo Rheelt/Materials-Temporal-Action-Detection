@@ -1,4 +1,5 @@
 # Papers: temporal action proposals & detection
+- (DualDETR) **[Dual DETRs for Multi-Label Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html)** (CVPR 2024)
 -  **Constraining Temporal Relationship for Action Localization** (arxiv 2020)
 - (AGCN-P-3DCNNs) **Graph Attention Based Proposal 3D ConvNets for Action Detection** (AAAI20)
 - (PBRNet) **Progressive Boundary Refinement Network for Temporal Action Detection** (AAAI20)
